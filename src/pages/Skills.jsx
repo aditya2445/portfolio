@@ -17,7 +17,7 @@ import netlify from "../Images/Stack/netlify.svg"
 import react from "../Images/Stack/React.png"
 import boot from "../Images/Stack/Bootstrap.svg"
 import matui from "../Images/Stack/MaterialUI.svg"
-import blobImage from "../Images/UserAsset/UserImage.png"
+import blobImage from "../Images/UserAsset/blobvector.png"
 function Skills() {
   return (
     <div className="container skills-container flex flex-col lg:flex-row items-center justify-center">
