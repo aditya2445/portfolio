@@ -269,7 +269,7 @@ body {
   left: -40px;
   top: -45px;
 }
-.project-content{
+.project-content {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -280,6 +280,13 @@ body {
   gap: 1em;
   transition: all 0.4s;
 }
+
+@media (max-width: 768px) {  /* Adjust max-width as needed for your desired "small screen" size */
+  .project-content {
+    word-break: break-word;
+  }
+}
+
 .project-content-left{
   left: 10%;
 }
@@ -303,7 +310,7 @@ body {
 .project-heading{
   font-size: 50px;
   font-weight: bold;
-  /* line-height: 3rem; */
+  line-height: 3rem;
 }
 .project-subheading{
   width: 70%;
