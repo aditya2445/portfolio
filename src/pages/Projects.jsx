@@ -2,7 +2,7 @@ import React from "react";
 // import { projectData } from "../data/projectData";
 import html from "../Images/Stack/HTML.png"
 import css from "../Images/Stack/CSS.png"
-import js from "../Images/Stack/JavaScript.svg"
+import js from "../Images/Stack/javascript.svg"
 import exp from "../Images/Stack/Express.png"
 import next from "../Images/Stack/NextJsCircle.png"
 import tail from "../Images/Stack/Tailwind.png"
