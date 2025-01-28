@@ -39,8 +39,8 @@ const ProjectSection = () => {
                 <img className="project-skill" src={red} alt=""/>
                 {/* <img className="project-skill" src={vercel} alt=""/> */}
           </div>
-                <h2 class="project-heading">StudyNotion</h2>
-                  <div class="project-subheading">
+                <h2 class="project-heading md:leading-12 leading-1">StudyNotion</h2>
+                  <div class="project-subheading md:block hidden">
                   StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
                   </div>
                   <div class="btn-grp">
@@ -74,7 +74,7 @@ const ProjectSection = () => {
                 {/* <img className="project-skill" src={vercel} alt=""/> */}
             </div>
                 <h2 class="project-heading">Tweet Tube</h2>
-                  <div class="project-subheading">
+                  <div class="project-subheading md:block hidden">
                     TweetTube is a complete and complete backend project with high level of pipelining that aims in mixing of 2 social media platforms - Twitter and YouTube,to use at once to get the best of both. 
                   </div>
                   <div class="btn-grp">
@@ -108,7 +108,7 @@ const ProjectSection = () => {
                 {/* <img className="project-skill" src={vercel} alt=""/> */}
             </div>
                 <h2 class="project-heading">MentorConnect</h2>
-                  <div class="project-subheading">
+                  <div class="project-subheading md:block hidden">
                     The project in Smart India Hackathon aims to provide the best way Mentoring during the Career/Education is a vital aspect for success of a candidate and this can achieve amazingly positive changes in the life of a mentee
                   </div>
                   <div class="btn-grp">
@@ -145,7 +145,7 @@ const ProjectSection = () => {
                 {/* <img className="project-skill" src={vercel} alt=""/> */}
             </div>
                 <h2 class="project-heading">MusicClasses</h2>
-                  <div class="project-subheading">
+                  <div class="project-subheading md:block hidden">
                       Music Classes is nextjs project which uses shadcn features for UI/UX.it allows users to create account and enroll into courses whatever they want to learn.
                   </div>
                   <div class="btn-grp">
