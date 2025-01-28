@@ -48,7 +48,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="w-9/12 mt-5 p-4 mx-auto md:flex gap-2 flex-col items-center justify-center">
+      <div className="w-9/12 mt-5 p-4 mx-auto flex gap-2 flex-col items-center justify-center">
         <h2 className='font-bold text-2xl text-stone-500'>My Resume</h2>
         <Link
         className='font-bold text-[20px] text-black bg-teal-300 p-3 rounded-xl'
