@@ -157,7 +157,7 @@ const ProjectSection = () => {
                   </div>
                   <div className="btn-grp">
                     <Link
-                    to={"http://github.com"}
+                    to={"https://github.com/aditya2445/StudyNotion"}
                     className="btn-pink btn-project">
                       <i title="GitHub Link" class="fa-brands fa-github icon">
                         <FaGithub/>
